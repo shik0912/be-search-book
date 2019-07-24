@@ -1,4 +1,4 @@
-# searchbookservice
+# be-searchbookservice
 
 ## Project setup
 ```
